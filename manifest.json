@@ -1,0 +1,17 @@
+{
+  "name": "宝宝成长记录 · 0–1岁",
+  "short_name": "成长记录",
+  "description": "记录 0–1 岁宝宝的吃喝拉撒、生长曲线、疫苗排期与成长瞬间",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F9",
+  "theme_color": "#FAF7F9",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
